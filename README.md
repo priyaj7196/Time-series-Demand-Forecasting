@@ -64,4 +64,4 @@ Key takeaways:
 - Extend the seq2seq notebook with attention or transformer blocks for longer-horizon stability.
 
 ---
-Maintainer: Priya Jagadala (`priya@`), 2025.
+Maintainer: Priyanka Jagadala, 2025.
