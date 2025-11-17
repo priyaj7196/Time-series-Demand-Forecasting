@@ -24,7 +24,7 @@ Daily closing prices for Apple (`AAPL.csv`) are modeled with several deep-learni
 | `seq2seq_LSTM.ipynb` | Encoder–decoder LSTM that consumes 12 days and predicts the next 6 steps jointly. |
 | `prophet.ipynb` | Facebook/Meta Prophet additive seasonal baseline. |
 | `model.png` | Saved network diagram exported via `plot_model`. |
-| `trained_model.h5` / `trained_model.keras` | Checkpoints for the stacked LSTM experiment. |
+| `trained_model.h5`| Checkpoints for the stacked LSTM experiment. |
 
 ## Modeling workflow (common steps)
 - Load `AAPL.csv`, parse timestamps, and visualize raw vs normalized prices.
