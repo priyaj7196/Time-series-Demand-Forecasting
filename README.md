@@ -58,10 +58,5 @@ Key takeaways:
 3. Ensure that `AAPL.csv` is located at `../AAPL.csv` relative to the notebooks (already configured in the code).
 4. Run all cells to reproduce the metrics above or tweak hyperparameters/window sizes for new experiments.
 
-## Next steps
-- Add hyperparameter sweeps (Optuna/KerasTuner) to explore deeper/wider recurrent stacks.
-- Replace Prophet with a modern classical baseline (ARIMA/SARIMAX) for a fairer comparison.
-- Extend the seq2seq notebook with attention or transformer blocks for longer-horizon stability.
-
 ---
 Maintainer: Priyanka Jagadala, 2025.
